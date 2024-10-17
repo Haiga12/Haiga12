@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Visualization with D3, JSON APIs and AJAX**
 
-- 📝 I’m currently practicing and improving my skills in **JavaScript Frameworks ( React, Redux, jQuery etc.)**
+- 📝 I’m currently practicing and improving my skills in **JavaScript Libraries & Frameworks (React, Redux, jQuery, SASS etc.)**
 
 - 📫 How to reach me **haigalexd@gmail.com**
 
