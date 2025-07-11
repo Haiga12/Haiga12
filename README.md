@@ -6,7 +6,17 @@
 - 📝 I’m currently practicing and improving my skills in **JavaScript Libraries & Frameworks (React, Redux, jQuery, SASS etc.)**
 
 - 📫 How to reach me **haigalexd@gmail.com**
+---
 
+### 🔨 Projects
+
+- 🎮 **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
+  Technologies: Unity, C#  
+
+- 🧩 **[Pokémon TCG Database](https://github.com/YOUR-USERNAME/Pokemon-TCG-Database)** – A web app to browse and track Pokémon cards  
+  Technologies: HTML, CSS, JavaScript  
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/haig-alexander-dilanian-78493629b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haig-alexander-dilanian-78493629b" height="30" width="40" /></a>
