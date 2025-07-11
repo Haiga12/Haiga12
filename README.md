@@ -1,19 +1,19 @@
 <h1 align="center">I'm Haig-Alexander Dilanian</h1>
 <h3 align="center">A Web & Software Developer from Canada!</h3>
 
-- 🌱 I’m currently learning **Data Visualization with D3, JSON APIs and AJAX**
+- I’m currently learning **Data Visualization with D3, JSON APIs and AJAX**
 
-- 📝 I’m currently practicing and improving my skills in **JavaScript Libraries & Frameworks (React, Redux, jQuery, SASS etc.)**
+- I’m currently practicing and improving my skills in **JavaScript Libraries & Frameworks (React, Redux, jQuery, SASS etc.)**
 
-- 📫 How to reach me **haigalexd@gmail.com**
+- How to reach me **haigalexd@gmail.com**
 ---
 
 ### 🔨 Projects
 
-- 🎮 **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
+- **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
   Technologies: Unity, C#  
 
-- 🧩 **[Pokémon TCG Database](https://github.com/Haiga12/pokemontcgdatabase)** – A web app to browse and track Pokémon cards  
+- **[Pokémon TCG Database](https://github.com/Haiga12/pokemontcgdatabase)** – A web app to browse and track Pokémon cards  
   Technologies: HTML, CSS, JavaScript  
 
 ---
