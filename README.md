@@ -13,7 +13,7 @@
 - 🎮 **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
   Technologies: Unity, C#  
 
-- 🧩 **[Pokémon TCG Database](https://github.com/YOUR-USERNAME/Pokemon-TCG-Database)** – A web app to browse and track Pokémon cards  
+- 🧩 **[Pokémon TCG Database](https://github.com/Haiga12/pokemontcgdatabase)** – A web app to browse and track Pokémon cards  
   Technologies: HTML, CSS, JavaScript  
 
 ---
