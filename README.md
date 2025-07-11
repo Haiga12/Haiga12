@@ -8,7 +8,7 @@
 - How to reach me **haigalexd@gmail.com**
 ---
 
-### 🔨 Projects
+###  Projects
 
 - **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
   Technologies: Unity, C#  
