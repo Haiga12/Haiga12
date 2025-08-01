@@ -1,4 +1,4 @@
-<h1 align="center">I'm Haig-Alexander Dilanian</h1>
+<h1 align="center">I'm Haig Alexander Dilanian</h1>
 <h3 align="center">A Web & Software Developer from Canada!</h3>
 
 - I’m currently learning **Data Visualization with D3, JSON APIs and AJAX**
