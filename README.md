@@ -16,6 +16,8 @@
 - **[Pokémon TCG Database](https://haiga12.github.io/pokemontcgdatabase/index.html)** – A web app to browse and track Pokémon cards  
   Technologies: HTML, CSS, JavaScript  
 
+- **[Pokémon TCG Database]((https://github.com/Haiga12/Haiga12/releases/tag/StockTracker))** – An app for tracking stock prices and financial information about traded companies
+  Technologies: Java, JavaFX, CSS, APIs
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
