@@ -10,14 +10,18 @@
 
 ###  Projects
 
-- **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC  
+- **[Ice Leap](https://haiga.itch.io/ice-leap)** – A tile-based puzzle game built in Unity for PC
+  
   Technologies: Unity, C#  
 
-- **[Pokémon TCG Database](https://haiga12.github.io/pokemontcgdatabase/index.html)** – A web app to browse and track Pokémon cards  
+- **[Pokémon TCG Database](https://haiga12.github.io/pokemontcgdatabase/index.html)** – A web app to browse and track Pokémon cards
+  
   Technologies: HTML, CSS, JavaScript  
 
-- **[Stock Tracker](https://github.com/Haiga12/Haiga12/releases/tag/StockTracker)** – An app for tracking stock prices and financial information about traded companies  
+- **[Stock Tracker](https://github.com/Haiga12/Haiga12/releases/tag/StockTracker)** – An app for tracking stock prices and financial information about traded companies
+  
   Technologies: Java, JavaFX, CSS, APIs
+  
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
